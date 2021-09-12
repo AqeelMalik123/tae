@@ -1,0 +1,48 @@
+.mt-20{
+    margin-top: 20;
+}
+
+.teambox{
+    height: 200px;
+    border: 2px solid;
+}
+
+
+.memberlist{
+list-style-type: none;
+display: inline;
+}
+
+.memberlist>li{
+    list-style-type: none;
+    display: inline;
+    }
+
+
+
+.maindiv{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid;
+
+    padding: 40px;
+}
+
+
+.ownteam{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.otherteam{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+.addbtn{
+    border-radius: 30px;
+    font-size: large;
+    /* padding: 0; */
+    float: right;
+}
